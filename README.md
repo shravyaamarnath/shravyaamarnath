@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,I'm Shravya  👋
 
 <!--
 **shravyaamarnath/shravyaamarnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Shravya 👋
-
 Senior PM by day, AI builder by night.
 
 Learning by doing — shipping LLM-powered apps and AI agents here.
