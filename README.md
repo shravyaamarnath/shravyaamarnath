@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Senior PM by day, AI builder by night.
+Product Manager by day, AI builder by night.
 
 Learning by doing — shipping LLM-powered apps and AI agents here.
 Expect experiments, prototypes, and things that actually run.
