@@ -19,6 +19,4 @@ Product Manager by day, AI builder by night.
 Learning by doing — shipping LLM-powered apps and AI agents here.
 Expect experiments, prototypes, and things that actually run.
 
-- 🏢 Senior PM @ Microsoft AI
-- 🎓 CMU Tepper MBA | CS background  
-- 📍 Seattle, WA
+
