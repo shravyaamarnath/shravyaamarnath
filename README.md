@@ -19,3 +19,7 @@ Learning by doing — shipping LLM-powered apps and AI agents here.
 Expect experiments, prototypes, and things that actually run.
 
 
+## Prototypes
+- Building a [Meditation App With Replit](https://github.com/shravyaamarnath/Meditation-App/tree/main)
+- Building an [AI Builder Platform with Lovable](https://github.com/shravyaamarnath/AI-Project-Showcase)
+
