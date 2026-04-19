@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Learning by doing — shipping LLM-powered apps and AI agents here.
-Expect experiments, prototypes, and things that actually run.
+Expect experiments, prototypes, and functional builds that bridge the gap to production.
 
 
 ### Prototypes
