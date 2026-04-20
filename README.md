@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Learning by doing — shipping LLM-powered apps and AI agents here.
 Expect experiments, prototypes, and functional builds that bridge the gap to production.
 
-##Experiements
--Building a [Churn Prediction Model](https://github.com/shravyaamarnath/ml-churn-prediction)
+### Experiments
+- [Churn Prediction Model](https://github.com/shravyaamarnath/ml-churn-prediction): An end-to-end churn analysis pipeline to transform raw behavioral data into a prioritized list of retention opportunities for product teams.
 
 ### Prototypes
 - Building a [Meditation App With Replit](https://github.com/shravyaamarnath/Meditation-App/tree/main)
