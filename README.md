@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Learning by doing — shipping LLM-powered apps and AI agents here.
 Expect experiments, prototypes, and functional builds that bridge the gap to production.
 
+##Experiements
+-Building a [Churn Prediction Model](https://github.com/shravyaamarnath/ml-churn-prediction)
 
 ### Prototypes
 - Building a [Meditation App With Replit](https://github.com/shravyaamarnath/Meditation-App/tree/main)
