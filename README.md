@@ -25,6 +25,7 @@ I also write **Decoded: How AI Products Actually Work** where I break down real-
   
 
 ### 🛠️ Prototypes
+- [Visa Slot Monitor](https://github.com/shravyaamarnath/visa-slot-monitor)- An automated agent that monitors visa availability every 5 minutes and alerts via Telegram when slots open.
 - Building a [Meditation App With Replit](https://github.com/shravyaamarnath/Meditation-App/tree/main)
 - Building an [AI Builder Platform with Lovable](https://github.com/shravyaamarnath/AI-Project-Showcase)
 
